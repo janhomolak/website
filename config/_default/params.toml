@@ -96,7 +96,7 @@ address = {street = "Salata 11", city = "Zagreb", postcode = "10000", country = 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "45.82113217186641", longitude = "15.985552647538134"}, 
 
 # Directions for visitors to locate you.
 directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
